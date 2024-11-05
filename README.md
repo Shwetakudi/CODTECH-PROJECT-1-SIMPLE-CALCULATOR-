@@ -67,9 +67,11 @@ Enter the second number: 5
 ```
 
 **Output**:
-```
-The result is: 15
-```
+![Screenshot (56)](https://github.com/user-attachments/assets/749a4d02-bad8-420e-82be-1e0143b9ec6c)
+![Screenshot (55)](https://github.com/user-attachments/assets/41becbcc-206a-44af-bb7a-090974afa244)
+![Screenshot (54)](https://github.com/user-attachments/assets/5518d035-7fb3-42e9-ae3c-17b3aa6b779a)
+![Screenshot (53)](https://github.com/user-attachments/assets/3dba6af0-ea96-4c3f-bedf-188ed3a32fb3)
+
 
 ## Code Explanation
 
